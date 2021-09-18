@@ -19,7 +19,6 @@ public class LevelController : MonoBehaviour
                 return;
             }
 
-            // Debug.Log();
             Debug.Log("You killed all enemies!");
 
             _nextLevelIndex++;
